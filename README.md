@@ -6,9 +6,11 @@ A Full Stack Software Engineer that loves writing in ...
 
 I also have following skills!
 
-[![My Skills](https://skillicons.dev/icons?i=nestjs,postgres,prisma,py,postman,graphql,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nestjs,postgres,prisma,py,postman,git,vite,css,html,firebase,docker)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=vite,css,html,threejs,firebase,docker)](https://skillicons.dev)
+Learning and Interested in...
+
+[![My Skills](https://skillicons.dev/icons?i=graphql,threejs,go)](https://skillicons.dev)
 
 
 My portfolio page can be found here : https://decidev22.github.io/andybaeck.io/
