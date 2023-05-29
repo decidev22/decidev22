@@ -6,6 +6,6 @@ A Full Stack Software Engineer that loves writing in ...
 
 I also have following skills!
 
-[![My Skills](https://skillicons.dev/icons?i=nestjs,postgres,prisma,py,postman,graphql,git,firebase,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nestjs,postgres,prisma,py,postman,graphql,git)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=vite,css,html,threejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vite,css,html,threejs,firebase,docker)](https://skillicons.dev)
