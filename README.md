@@ -6,7 +6,7 @@ A Full Stack Software Engineer that loves writing in ...
 
 I also have following skills!
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,prisma,py,postman,git,vite,css,html,firebase,docker,sql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,prisma,py,postman,git,vite,css,html,firebase,docker)](https://skillicons.dev)
 
 Learning and Interested in...
 
