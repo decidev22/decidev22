@@ -31,3 +31,7 @@ AI Chat Consult Bot: https://lifeconsult-chat-ab.pages.dev/
 
 [![My Skills](https://skillicons.dev/icons?i=ts,nextjs,aws,cloudflare,express,react,tailwind)](https://skillicons.dev)
 
+
+GET Google Panorama by coordinate
+
+[![My Skills](https://skillicons.dev/icons?i=python,gcp)](https://skillicons.dev)
