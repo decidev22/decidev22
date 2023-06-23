@@ -14,6 +14,7 @@ Learning and Interested in...
 
 
 My portfolio page can be found here : https://decidev22.github.io/andybaeck.io/
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,github,vite,ts,firebase)](https://skillicons.dev)
 
 My recent projects are...
 
