@@ -14,10 +14,13 @@ Learning and Interested in...
 
 
 My portfolio page can be found here : https://decidev22.github.io/andybaeck.io/
+
 [![My Skills](https://skillicons.dev/icons?i=react,tailwind,github,vite,ts,firebase,githubactions)](https://skillicons.dev)
 
 My professional experience in Software Engineering:
+
 Payment terminal development
+
 [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,express,docker,jest,postgres,postman)](https://skillicons.dev)
 
 My recent projects are...
