@@ -26,6 +26,7 @@ Payment terminal development
 My recent projects are...
 
 NSW Design System Proposal: https://dev-nomad.vercel.app/
+
 [![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,github)](https://skillicons.dev)
 
 DevNomad: https://dev-nomad.vercel.app/
