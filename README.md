@@ -13,7 +13,9 @@ Hello 👋 My name is Andy Baeck.
 [![My Skills](https://skillicons.dev/icons?i=nestjs,graphql,threejs,go)](https://skillicons.dev)
 
 
-## My portfolio page can be found here: https://decidev22.github.io/andybaeck.io/
+## My portfolio page can be found here
+
+https://decidev22.github.io/andybaeck.io/
 
 [![My Skills](https://skillicons.dev/icons?i=react,tailwind,github,vite,ts,firebase,githubactions)](https://skillicons.dev)
 
@@ -25,15 +27,21 @@ Hello 👋 My name is Andy Baeck.
 
 # My recent projects are...
 
-## NSW Design System Proposal: https://dev-nomad.vercel.app/
+## NSW Design System Proposal
+
+https://dev-nomad.vercel.app/
 
 [![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,github)](https://skillicons.dev)
 
-## DevNomad: https://dev-nomad.vercel.app/
+## DevNomad
+
+https//dev-nomad.vercel.app/
 
 [![My Skills](https://skillicons.dev/icons?i=vite,ts,prisma,express,vercel,react,nextjs,mongodb,tailwind)](https://skillicons.dev)
 
-## Talent Park: https://talent-park.pages.dev/
+## Talent Park
+
+https://talent-park.pages.dev/
 
 [![My Skills](https://skillicons.dev/icons?i=ts,nextjs,firebase,express,react,tailwind)](https://skillicons.dev)
 
