@@ -46,7 +46,9 @@ https://talent-park.pages.dev/
 [![My Skills](https://skillicons.dev/icons?i=ts,nextjs,firebase,express,react,tailwind)](https://skillicons.dev)
 
 
-## AI Chat Consult Bot: https://lifeconsult-chat-ab.pages.dev/
+## AI Chat Consult Bot
+
+https://lifeconsult-chat-ab.pages.dev/
 
 [![My Skills](https://skillicons.dev/icons?i=ts,nextjs,aws,cloudflare,express,react,tailwind)](https://skillicons.dev)
 
