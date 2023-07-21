@@ -29,7 +29,7 @@ https://decidev22.github.io/andybaeck.io/
 
 ## NSW Design System Proposal
 
-https://dev-nomad.vercel.app/
+https://nswspotlight.pages.dev/
 
 [![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,github)](https://skillicons.dev)
 
