@@ -27,6 +27,14 @@ https://decidev22.github.io/andybaeck.io/
 
 # My recent projects are...
 
+
+## Personal Blog - Daily Bread Programming
+
+[https://nswspotlight.pages.dev/](https://github.com/decidev22/DailyBreadProgramming)
+
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,github,mongodb,express,nodejs,jest)](https://skillicons.dev)
+
+
 ## NSW Design System Proposal
 
 https://nswspotlight.pages.dev/
