@@ -34,6 +34,12 @@ https://kinetic-linedrawing.vercel.app/
 
 [![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,github,vercel)](https://skillicons.dev)
 
+## Timesqaure.io
+
+https://github.com/decidev22/timesquare
+
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,github,mongodb,express,nodejs)](https://skillicons.dev)
+
 
 ## Personal Blog - Prologue
 
