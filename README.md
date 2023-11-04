@@ -28,9 +28,18 @@ https://decidev22.github.io/andybaeck.io/
 # My recent projects are...
 
 
-## Personal Blog - Daily Bread Programming
+## Kinetic Line Drawing
 
-[https://nswspotlight.pages.dev/](https://github.com/decidev22/DailyBreadProgramming)
+https://kinetic-linedrawing.vercel.app/
+
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,github,vercel)](https://skillicons.dev)
+
+
+## Personal Blog - Prologue
+
+Previously - DailyBreadProgramming
+
+https://github.com/decidev22/DailyBreadProgramming
 
 [![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,github,mongodb,express,nodejs,jest)](https://skillicons.dev)
 
