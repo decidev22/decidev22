@@ -58,7 +58,7 @@ https://nswspotlight.pages.dev/
 
 ## DevNomad
 
-https//dev-nomad.vercel.app/
+[https//dev-nomad.vercel.app/](https://dev-nomad.vercel.app/)
 
 [![My Skills](https://skillicons.dev/icons?i=vite,ts,prisma,express,vercel,react,nextjs,mongodb,tailwind)](https://skillicons.dev)
 
