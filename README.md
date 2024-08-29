@@ -1,6 +1,6 @@
 Hello 👋 My name is Andy Baeck.
 
-# A Full Stack Software Engineer that loves writing in ...
+# A Full Stack Software Engineer in FinTech and Gaming...
 
 [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,express,mongodb,nextjs,react,tailwind)](https://skillicons.dev)
 
