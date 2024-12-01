@@ -1,6 +1,7 @@
 Hello 👋 My name is Andy Baeck.
 
-# A Full Stack Software Engineer in FinTech and Web-Graphic
+# A Full Stack Software Engineer in FinTech and Payment Technologies
+## and building software that helps us be more productive.
 
 [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,express,mongodb,nextjs,react,tailwind)](https://skillicons.dev)
 
