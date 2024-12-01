@@ -8,7 +8,9 @@ Hello 👋 My name is Andy Baeck.
 # My Skills
 
 [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,express,py,postman,git,docker,bash,webpack)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,firebase,aws)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind,vite,css,html)](https://skillicons.dev)
 
 ## Learning and Interested in...
