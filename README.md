@@ -3,7 +3,6 @@ Hello 👋 My name is Andy Baeck.
 # A Full Stack Software Engineer in FinTech and Payment Technologies
 ## and building software that helps us be more productive.
 
-[![My Skills](https://skillicons.dev/icons?i=)](https://skillicons.dev)
 
 # My Skills
 
