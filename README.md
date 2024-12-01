@@ -7,7 +7,7 @@ Hello 👋 My name is Andy Baeck.
 
 # My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,py,postman,git,vite,css,html,firebase,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,py,postman,git,vite,css,html,firebase,docker,aws,bash,mongodb)](https://skillicons.dev)
 
 ## Learning and Interested in...
 
