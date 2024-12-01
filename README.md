@@ -13,6 +13,6 @@ Hello 👋 My name is Andy Baeck.
 [![My Skills](https://skillicons.dev/icons?i=zig,rust,go)](https://skillicons.dev)
 
 
-## My portfolio page can be found here
+## Links
+Portfolio - https://decidev22.github.io/andybaeck.io/
 
-[https://decidev22.github.io/andybaeck.io/]
