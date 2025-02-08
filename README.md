@@ -2,6 +2,7 @@ Hello 👋 My name is Andy Baeck.
 
 # A Full Stack Software Engineer in FinTech and Payment Technologies
 ## and building software that helps us be more productive.
+## Currently looking for a new adventure deeper into TS/Node and GoLang!
 
 
 # My Skills
